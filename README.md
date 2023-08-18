@@ -14,7 +14,7 @@
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
-- ---
+
 
 ### :woman_technologist: About Me :
 I am a passionate individual about technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
@@ -23,7 +23,7 @@ I am a passionate individual about technology <img src="https://media.giphy.com/
 - :zap: As a newcomer, I am actively engaged in learning and developing myself every day.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-js1420-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haitruong1420/)
-- ---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
