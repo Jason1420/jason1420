@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 ---
 
 ### :woman_technologist: About Me :
