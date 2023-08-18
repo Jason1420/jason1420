@@ -17,10 +17,10 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
+I am a passionate individual about technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :telescope: I’m working as a backend developer for building web applications.
 
-- :zap: I am a newbie and I am learning to improve myself every day.
+- :zap: As a newcomer, I am actively engaged in learning and developing myself every day.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-js1420-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haitruong1420/)
 - ---
