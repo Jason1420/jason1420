@@ -23,7 +23,7 @@ I am a passionate individual about technology <img src="https://media.giphy.com/
 - :zap: As a newcomer, I am actively engaged in learning and developing myself every day.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-js1420-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haitruong1420/)
-- ---
+
  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -40,6 +40,4 @@ I am a passionate individual about technology <img src="https://media.giphy.com/
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>&nbsp; 
 </div>
----
-
 
