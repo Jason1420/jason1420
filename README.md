@@ -42,5 +42,4 @@ I am a passionate individual about technology <img src="https://media.giphy.com/
 </div>
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jason1420&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
